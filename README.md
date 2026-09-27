@@ -1,3 +1,4 @@
+![ETL Architecture](cover/etl.jpg)
 ## Overview Data Warehouse Project
 
 This project demonstrates an end-to-end ETL pipeline and Data Warehouse implementation using the Vehicle Loan Default Prediction dataset.
@@ -47,8 +48,6 @@ Analytics
 ## Dataset
 
 Vehicle Loan Default Prediction Dataset (Kaggle)
-
-![ETL Architecture](cover/ETL.jpg)
 
 ## Author
 
